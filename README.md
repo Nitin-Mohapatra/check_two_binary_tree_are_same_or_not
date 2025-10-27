@@ -1,4 +1,4 @@
-# Compare Two Linked Lists (LeetCode - paraphrased)
+# Compare Two Linked Lists 
 
 Problem:
 Determine whether two singly linked lists are identical: same node values in the same order and same length.
